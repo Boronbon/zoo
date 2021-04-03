@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    justify-content: center;
+    
+}
+.item{
+    width: 585px;
+    height: 391px;
+}
+img{
+    width:100%;
+}
+.item1{
+    width: 484.06px;
+    height: 393px;
+}
+header{
+    width:100%;
+}
+main{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.prohibitions{
+    display: flex;
+    flex-direction: column;
+}
+.item3{
+width: 285px;
+height: 105px;
+}
+.prohubitions1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:50px;
+}
+.prohubitions2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    margin-top: 50px;
+}
